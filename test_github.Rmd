@@ -13,7 +13,7 @@ Here's some code (change the variable names and values):
 ```{r}
 # Change these variable names and values:
 
-purple <- 15
+purple <- 16
 
 reddish <- 69
 
